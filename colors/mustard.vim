@@ -20,6 +20,29 @@ let s:gui0E = "ec691e"
 let s:gui0F = "73e4f6"
 
 
+" There are colors for Neovim's terminal emulator
+
+let g:terminal_color_0 = "#202020"
+let g:terminal_color_1 = "#9dd6f4"
+let g:terminal_color_2 = "#666666"
+let g:terminal_color_3 = "#80a78c"
+let g:terminal_color_4 = "#edd98f"
+let g:terminal_color_5 = "#f8f8f2"
+let g:terminal_color_6 = "#9dd6f4"
+let g:terminal_color_7 = "#f8f8f2"
+let g:terminal_color_8 = "#edd98f"
+let g:terminal_color_9 = "#73e4f6"
+let g:terminal_color_10 = "#f8f8f2"
+let g:terminal_color_11 = "#9dd6f4"
+let g:terminal_color_12 = "#73e4f6"
+let g:terminal_color_13 = "#ec691e" 
+let g:terminal_color_14 = "#ec691e"
+let g:terminal_color_15 = "#ec691e"
+let g:terminal_color_16 ="#202020"
+let g:terminal_color_background="#202020"
+let g:terminal_color_foreground="#eee"
+
+
 " Terminal color definitions
 
 " dark theme background: 25,25,25 
