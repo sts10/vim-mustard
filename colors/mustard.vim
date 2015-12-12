@@ -1,7 +1,6 @@
 " Mustard Theme
 " after install, remember to `set background=dark`
 
-" GUI color definitions
 let s:gui00 = "202020"
 let s:gui01 = "333333"
 let s:gui02 = "666666"
@@ -42,7 +41,6 @@ if has("nvim")
   let g:terminal_color_background="#202020"
   let g:terminal_color_foreground="#eee"
 endif
-
 
 " Terminal color definitions
 
@@ -88,6 +86,7 @@ else
   " Vim inactive window name background
   let s:cterm01 = "08"
 
+  " Light background markdown text color plus
   " Vim window borders and active widnow background
   let s:cterm02 = "08"
 
