@@ -2,4 +2,17 @@
 
 ![Mustard, iTerm2, Neovim, Ruby](mustard_ruby.png)
 
+## Installation
 
+1. Move `colors/mustard.vim` into your `~/.vim/colors` directory. 
+2. Set `colorscheme mustard` and `set background=dark` in your `vimrc`. 
+
+## Inspiration
+
+I got most of the colors from [this theme also called Mustard](https://github.com/panrafal/mustard-theme) (there's also a [Sublime Text version](http://colorsublime.com/theme/Mustard)), though the syntax-to-colors don't line up exactly. Hope that's cool.
+
+## Getting True HEX Colors
+
+Vim-Mustard has HEX color codes in it, so it works well with GVim (including [MacVim](https://github.com/macvim-dev/macvim/releases/)), as well as [Neovim](https://github.com/neovim/neovim) + terminals that have true color support. 
+
+If you're using [Neovim](https://github.com/neovim/neovim) and OS X, I've got [a blog post](http://sts10.github.io/blog/2015/10/24/true-hex-colors-with-neovim-and-iterm2/) explaining how to get HEX colors in iTerm2 using Neovim.
