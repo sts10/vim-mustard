@@ -4,8 +4,17 @@
 
 ## Installation
 
-1. Move `colors/mustard.vim` into your `~/.vim/colors` directory. 
-2. Set `colorscheme mustard` and `set background=dark` in your `vimrc`. 
+Option 1: Install via plugin manager (like [vim-plug](https://github.com/junegunn/vim-plug))
+1. Add `Plug 'sts10/vim-mustard'` as a plugin in your vimrc
+2. Run `:PlugInstall`
+3. Put `colorscheme mustard` and `set background=dark` in your `vimrc`. 
+
+Option 2: Manual installation
+1. Clone or download this repo.
+2. Move `colors/mustard.vim` into your `~/.vim/colors` directory. 
+3. Put `colorscheme mustard` and `set background=dark` in your `vimrc`. 
+
+The font in the screenshot above is [Deja Vu Sans Mono](http://dejavu-fonts.org/wiki/Download)
 
 ## Inspiration
 
