@@ -20,7 +20,7 @@ The font in the screenshot above is [Deja Vu Sans Mono](http://dejavu-fonts.org/
 
 ## Inspiration
 
-I got most of the colors from [this theme also called Mustard](https://github.com/panrafal/mustard-theme) (there's also a [Sublime Text version](http://colorsublime.com/theme/Mustard)), though the syntax-to-colors don't line up exactly. Hope that's cool.
+I got most of the colors from [this theme also called Mustard](https://github.com/panrafal/mustard-theme), though the syntax-to-colors don't line up exactly. Hope that's cool.
 
 ## Getting True HEX Colors
 
